@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\Proyecto_Vectorial\bin\Debug\Proyecto_Vectorial.exe.config
+C:\Users\dell\Desktop\Proyecto_Vectorial\bin\Debug\Proyecto_Vectorial.exe
+C:\Users\dell\Desktop\Proyecto_Vectorial\bin\Debug\Proyecto_Vectorial.pdb
+C:\Users\dell\Desktop\Proyecto_Vectorial\obj\Debug\Proyecto_Vectorial.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Proyecto_Vectorial\obj\Debug\Proyecto_Vectorial.Gradiente.resources
+C:\Users\dell\Desktop\Proyecto_Vectorial\obj\Debug\Proyecto_Vectorial.Properties.Resources.resources
+C:\Users\dell\Desktop\Proyecto_Vectorial\obj\Debug\Proyecto_Vectorial.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Proyecto_Vectorial\obj\Debug\Proyecto_Vectorial.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Proyecto_Vectorial\obj\Debug\Proyecto_Vectorial.exe
+C:\Users\dell\Desktop\Proyecto_Vectorial\obj\Debug\Proyecto_Vectorial.pdb
